@@ -1,0 +1,18 @@
+{
+  "title": "Support Docs Gap Drafter",
+  "description": "Drafts a small docs improvement from repeated support questions, so the same tickets happen less often.",
+  "categories": [
+    "Customer Success"
+  ],
+  "surfaces": [
+    "Support System",
+    "Documentation",
+    "Repository"
+  ],
+  "tools": [
+    "support system MCP/API",
+    "git",
+    "ripgrep",
+    "docs site search"
+  ]
+}

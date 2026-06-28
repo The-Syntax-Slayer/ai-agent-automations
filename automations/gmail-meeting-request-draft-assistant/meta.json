@@ -1,0 +1,15 @@
+{
+  "title": "Gmail Meeting Request Draft Assistant",
+  "description": "Drafts replies to meeting requests based on calendar availability, without automatically booking anything.",
+  "categories": [
+    "Inbox & Calendar"
+  ],
+  "surfaces": [
+    "Gmail",
+    "Google Calendar"
+  ],
+  "tools": [
+    "Gmail MCP",
+    "Google Calendar MCP"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "title": "CISA KEV Relevance Digest",
+  "description": "Finds CISA known exploited vulnerabilities that may matter to your codebase and highlights the ones worth reviewing.",
+  "categories": [
+    "Security & Compliance"
+  ],
+  "surfaces": [
+    "Public Web",
+    "Repository"
+  ],
+  "tools": [
+    "CISA KEV catalog",
+    "ripgrep",
+    "repository manifests and lockfiles"
+  ]
+}

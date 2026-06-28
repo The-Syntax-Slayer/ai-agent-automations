@@ -1,0 +1,13 @@
+{
+  "title": "Stripe Webhook Health Watch",
+  "description": "Checks whether Stripe webhooks are healthy and highlights delivery failures or setup problems worth fixing.",
+  "categories": [
+    "Revenue & Billing"
+  ],
+  "surfaces": [
+    "Stripe"
+  ],
+  "tools": [
+    "Stripe CLI"
+  ]
+}

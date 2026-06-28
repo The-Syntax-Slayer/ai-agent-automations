@@ -1,0 +1,14 @@
+{
+  "title": "Hugging Face Weekly Papers Digest",
+  "description": "Summarizes recent Hugging Face paper activity in a compact weekly research brief.",
+  "categories": [
+    "Research & Trends"
+  ],
+  "surfaces": [
+    "Hugging Face"
+  ],
+  "tools": [
+    "Hugging Face Papers API",
+    "Hugging Face Hub"
+  ]
+}

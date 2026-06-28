@@ -1,0 +1,13 @@
+{
+  "title": "Gmail Inbox Triage",
+  "description": "Sorts new inbox email and archives low-value messages so the inbox stays focused on what matters.",
+  "categories": [
+    "Inbox & Calendar"
+  ],
+  "surfaces": [
+    "Gmail"
+  ],
+  "tools": [
+    "Gmail MCP"
+  ]
+}

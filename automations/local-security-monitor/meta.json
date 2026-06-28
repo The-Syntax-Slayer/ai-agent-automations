@@ -1,0 +1,17 @@
+{
+  "title": "Local Security Monitor",
+  "description": "Runs a basic security health check on a local machine and highlights the issues most worth attention.",
+  "categories": [
+    "Local Security",
+    "Security & Compliance"
+  ],
+  "surfaces": [
+    "Local Host"
+  ],
+  "tools": [
+    "launchctl",
+    "lsof",
+    "codesign",
+    "system security commands"
+  ]
+}

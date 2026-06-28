@@ -1,0 +1,19 @@
+{
+  "title": "Production Data Contract Change Watch",
+  "description": "Finds differences between live data and your expected data shape before the drift turns into bugs.",
+  "categories": [
+    "Database Reliability"
+  ],
+  "surfaces": [
+    "MongoDB",
+    "Repository",
+    "GitHub"
+  ],
+  "tools": [
+    "MongoDB MCP",
+    "mongosh",
+    "ripgrep",
+    "git",
+    "GitHub MCP"
+  ]
+}

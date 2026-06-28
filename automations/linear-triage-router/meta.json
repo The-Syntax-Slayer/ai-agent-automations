@@ -1,0 +1,13 @@
+{
+  "title": "Linear Triage Router",
+  "description": "Routes new Linear issues to the right team and priority when the signal is strong enough.",
+  "categories": [
+    "Work Triage"
+  ],
+  "surfaces": [
+    "Linear"
+  ],
+  "tools": [
+    "Linear MCP"
+  ]
+}

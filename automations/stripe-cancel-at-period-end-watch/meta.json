@@ -1,0 +1,13 @@
+{
+  "title": "Stripe Cancel At Period End Watch",
+  "description": "Finds subscriptions scheduled to cancel that deserve attention, ranked by who looks most worth saving.",
+  "categories": [
+    "Revenue & Billing"
+  ],
+  "surfaces": [
+    "Stripe"
+  ],
+  "tools": [
+    "Stripe CLI"
+  ]
+}

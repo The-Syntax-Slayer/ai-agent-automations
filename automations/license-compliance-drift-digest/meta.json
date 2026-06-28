@@ -1,0 +1,15 @@
+{
+  "title": "License Compliance Drift Digest",
+  "description": "Shows dependency license changes that may create risk, so compliance review stays focused.",
+  "categories": [
+    "Security & Compliance"
+  ],
+  "surfaces": [
+    "Repository"
+  ],
+  "tools": [
+    "package manager lockfiles",
+    "license metadata sources",
+    "git"
+  ]
+}

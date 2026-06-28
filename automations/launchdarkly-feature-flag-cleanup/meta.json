@@ -1,0 +1,16 @@
+{
+  "title": "LaunchDarkly Feature Flag Cleanup",
+  "description": "Removes old temporary feature-flag code and validates that the cleanup is still safe.",
+  "categories": [
+    "Code Quality & Maintenance"
+  ],
+  "surfaces": [
+    "Repository",
+    "LaunchDarkly"
+  ],
+  "tools": [
+    "LaunchDarkly MCP",
+    "git",
+    "repo validation commands"
+  ]
+}

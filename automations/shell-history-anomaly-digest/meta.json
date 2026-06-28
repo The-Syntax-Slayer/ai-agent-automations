@@ -1,0 +1,16 @@
+{
+  "title": "Shell History Anomaly Digest",
+  "description": "Finds unusual or risky patterns in shell history that may deserve a human follow-up.",
+  "categories": [
+    "Local Security",
+    "Security & Compliance"
+  ],
+  "surfaces": [
+    "Local Host"
+  ],
+  "tools": [
+    "zsh history",
+    "bash history",
+    "fish history"
+  ]
+}

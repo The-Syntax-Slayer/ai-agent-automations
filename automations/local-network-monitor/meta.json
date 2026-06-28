@@ -1,0 +1,17 @@
+{
+  "title": "Local Network Monitor",
+  "description": "Summarizes current network activity on a local machine with the signals most worth a closer look.",
+  "categories": [
+    "Local Security",
+    "Security & Compliance"
+  ],
+  "surfaces": [
+    "Local Host"
+  ],
+  "tools": [
+    "lsof",
+    "netstat",
+    "ifconfig",
+    "route"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "New Relic Latency Hotspot Fixer",
+  "description": "Finds one important latency hotspot and prepares a small fix when the bottleneck is clear enough.",
+  "categories": [
+    "Observability & Incident Response",
+    "Cost & Performance"
+  ],
+  "surfaces": [
+    "New Relic",
+    "Repository",
+    "GitHub"
+  ],
+  "tools": [
+    "New Relic MCP",
+    "git",
+    "repo validation commands",
+    "GitHub MCP"
+  ]
+}

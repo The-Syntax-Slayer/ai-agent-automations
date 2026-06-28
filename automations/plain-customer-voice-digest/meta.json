@@ -1,0 +1,13 @@
+{
+  "title": "Plain Customer Voice Digest",
+  "description": "Summarizes what customers are saying in support conversations, grouped into the signals that matter most.",
+  "categories": [
+    "Customer Success"
+  ],
+  "surfaces": [
+    "Plain"
+  ],
+  "tools": [
+    "Plain MCP"
+  ]
+}

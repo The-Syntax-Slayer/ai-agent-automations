@@ -1,0 +1,17 @@
+{
+  "title": "Sampled Refactor",
+  "description": "Applies one small safe refactor in the codebase to improve maintainability without changing behavior.",
+  "categories": [
+    "Code Quality & Maintenance"
+  ],
+  "surfaces": [
+    "Repository",
+    "GitHub"
+  ],
+  "tools": [
+    "find",
+    "shuf",
+    "git",
+    "repo validation commands"
+  ]
+}

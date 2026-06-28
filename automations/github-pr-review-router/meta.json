@@ -1,0 +1,13 @@
+{
+  "title": "GitHub PR Review Router",
+  "description": "Shows what each open PR is waiting on, so reviewers and authors know where attention should go next.",
+  "categories": [
+    "Developer Workflow"
+  ],
+  "surfaces": [
+    "GitHub"
+  ],
+  "tools": [
+    "GitHub MCP"
+  ]
+}

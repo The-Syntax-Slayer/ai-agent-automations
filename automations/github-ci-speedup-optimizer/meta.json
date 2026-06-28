@@ -1,0 +1,19 @@
+{
+  "title": "GitHub CI Speedup Optimizer",
+  "description": "Tests one safe change to make GitHub Actions faster and reports whether it actually helped.",
+  "categories": [
+    "Developer Workflow",
+    "Cost & Performance"
+  ],
+  "surfaces": [
+    "GitHub",
+    "GitHub Actions",
+    "Repository"
+  ],
+  "tools": [
+    "GitHub MCP",
+    "GitHub Actions",
+    "git",
+    "repo validation commands"
+  ]
+}

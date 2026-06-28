@@ -1,0 +1,16 @@
+{
+  "title": "Plain Renewal Risk Digest",
+  "description": "Finds customers showing signs of renewal or churn risk, so success teams can review the right accounts first.",
+  "categories": [
+    "Customer Success",
+    "Revenue & Billing"
+  ],
+  "surfaces": [
+    "Plain",
+    "Stripe"
+  ],
+  "tools": [
+    "Plain MCP",
+    "Stripe MCP"
+  ]
+}

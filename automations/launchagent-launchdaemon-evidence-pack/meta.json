@@ -1,0 +1,17 @@
+{
+  "title": "LaunchAgent And LaunchDaemon Evidence Pack",
+  "description": "Finds launchd items on macOS that may need investigation, with a short evidence pack for review.",
+  "categories": [
+    "Local Security",
+    "Security & Compliance"
+  ],
+  "surfaces": [
+    "Local Host"
+  ],
+  "tools": [
+    "launchctl",
+    "plutil",
+    "codesign",
+    "mdfind"
+  ]
+}

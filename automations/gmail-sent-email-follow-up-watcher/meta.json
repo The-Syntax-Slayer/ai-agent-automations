@@ -1,0 +1,13 @@
+{
+  "title": "Gmail Sent Email Follow-Up Watcher",
+  "description": "Finds sent emails that may need a follow-up, so important conversations do not go quiet.",
+  "categories": [
+    "Inbox & Calendar"
+  ],
+  "surfaces": [
+    "Gmail"
+  ],
+  "tools": [
+    "Gmail MCP"
+  ]
+}

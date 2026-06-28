@@ -1,0 +1,15 @@
+{
+  "title": "Atlas Security Posture Digest",
+  "description": "Checks the security setup of one MongoDB Atlas project and highlights the issues most worth reviewing.",
+  "categories": [
+    "Security & Compliance"
+  ],
+  "surfaces": [
+    "MongoDB Atlas"
+  ],
+  "tools": [
+    "MongoDB MCP",
+    "Atlas CLI",
+    "Atlas Admin API"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Hugging Face Model Digest",
+  "description": "Summarizes notable new Hugging Face models with quick context on what they do and why they matter.",
+  "categories": [
+    "Research & Trends"
+  ],
+  "surfaces": [
+    "Hugging Face"
+  ],
+  "tools": [
+    "Hugging Face API",
+    "Hugging Face Hub"
+  ]
+}

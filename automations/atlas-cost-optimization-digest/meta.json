@@ -1,0 +1,15 @@
+{
+  "title": "Atlas Cost Optimization Digest",
+  "description": "Finds the biggest cost-saving opportunities in one MongoDB Atlas project, with the clearest places to optimize first.",
+  "categories": [
+    "Cost & Performance"
+  ],
+  "surfaces": [
+    "MongoDB Atlas"
+  ],
+  "tools": [
+    "MongoDB MCP",
+    "Atlas CLI",
+    "Atlas Admin API"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Sentry Triage And Fix",
+  "description": "Fixes one important Sentry issue and turns it into a focused, reviewable code change.",
+  "categories": [
+    "Observability & Incident Response"
+  ],
+  "surfaces": [
+    "Sentry",
+    "Repository",
+    "GitHub"
+  ],
+  "tools": [
+    "Sentry MCP",
+    "git",
+    "repo validation commands",
+    "GitHub MCP"
+  ]
+}

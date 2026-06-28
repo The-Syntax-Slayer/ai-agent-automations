@@ -1,0 +1,18 @@
+{
+  "title": "Dependency Major Upgrade Planner",
+  "description": "Turns major dependency upgrades into concrete migration tasks so teams can plan the work clearly.",
+  "categories": [
+    "Work Triage"
+  ],
+  "surfaces": [
+    "Repository",
+    "Linear",
+    "Public Web"
+  ],
+  "tools": [
+    "Linear MCP",
+    "package manager CLI",
+    "official migration docs",
+    "ripgrep"
+  ]
+}

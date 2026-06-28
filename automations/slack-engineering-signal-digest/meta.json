@@ -1,0 +1,19 @@
+{
+  "title": "Slack Engineering Signal Digest",
+  "description": "Summarizes the most important recent engineering Slack discussions so teams can catch up quickly.",
+  "categories": [
+    "Observability & Incident Response"
+  ],
+  "surfaces": [
+    "Slack",
+    "GitHub",
+    "Linear",
+    "Sentry"
+  ],
+  "tools": [
+    "Slack MCP",
+    "GitHub MCP",
+    "Linear MCP",
+    "Sentry MCP"
+  ]
+}

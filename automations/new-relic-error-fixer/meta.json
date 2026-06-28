@@ -1,0 +1,18 @@
+{
+  "title": "New Relic Error Fixer",
+  "description": "Fixes one important production error from New Relic when the code path and smallest safe fix are clear.",
+  "categories": [
+    "Observability & Incident Response"
+  ],
+  "surfaces": [
+    "New Relic",
+    "Repository",
+    "GitHub"
+  ],
+  "tools": [
+    "New Relic MCP",
+    "git",
+    "repo validation commands",
+    "GitHub MCP"
+  ]
+}

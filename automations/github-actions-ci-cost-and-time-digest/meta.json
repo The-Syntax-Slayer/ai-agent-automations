@@ -1,0 +1,16 @@
+{
+  "title": "GitHub Actions CI Cost And Time Digest",
+  "description": "Shows which GitHub Actions jobs cost the most time and money, so teams know where to optimize first.",
+  "categories": [
+    "Developer Workflow",
+    "Cost & Performance"
+  ],
+  "surfaces": [
+    "GitHub",
+    "GitHub Actions"
+  ],
+  "tools": [
+    "GitHub MCP",
+    "GitHub Actions API"
+  ]
+}

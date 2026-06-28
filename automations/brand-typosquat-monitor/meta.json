@@ -1,0 +1,16 @@
+{
+  "title": "Brand Typosquat Monitor",
+  "description": "Finds suspicious typo or lookalike domains for your brand so teams know what to investigate first.",
+  "categories": [
+    "Security & Compliance"
+  ],
+  "surfaces": [
+    "Public Web"
+  ],
+  "tools": [
+    "python3",
+    "run_monitor.py",
+    "DNS/RDAP/WHOIS lookups",
+    "HTTP(S) requests"
+  ]
+}

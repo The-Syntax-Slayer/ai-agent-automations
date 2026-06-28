@@ -1,0 +1,19 @@
+{
+  "title": "Atlas Performance Advisor Digest And PR",
+  "description": "Reviews Atlas Performance Advisor recommendations, explains which ones look worth testing, and can prepare one safe index PR.",
+  "categories": [
+    "Cost & Performance"
+  ],
+  "surfaces": [
+    "MongoDB Atlas",
+    "Repository",
+    "GitHub"
+  ],
+  "tools": [
+    "Atlas CLI",
+    "MongoDB MCP",
+    "mongosh",
+    "GitHub MCP",
+    "git"
+  ]
+}

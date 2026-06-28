@@ -1,0 +1,18 @@
+{
+  "title": "Crypto Market Research Digest",
+  "description": "Summarizes the most important recent crypto market developments in a quick research brief.",
+  "categories": [
+    "Research & Trends"
+  ],
+  "surfaces": [
+    "Public Web"
+  ],
+  "tools": [
+    "python3",
+    "run_digest.py",
+    "Binance API",
+    "DeFiLlama API",
+    "SEC data feeds",
+    "OFAC data feeds"
+  ]
+}

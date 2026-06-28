@@ -1,0 +1,16 @@
+{
+  "title": "Scan Codebase Vulnerabilities",
+  "description": "Finds real application security issues in a repository with a believable attack path, not just scanner noise.",
+  "categories": [
+    "Security & Compliance"
+  ],
+  "surfaces": [
+    "Repository",
+    "Slack"
+  ],
+  "tools": [
+    "ripgrep",
+    "code tracing",
+    "Slack MCP"
+  ]
+}

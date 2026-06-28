@@ -1,0 +1,15 @@
+{
+  "title": "Gmail Newsletter Intel Brief",
+  "description": "Turns newsletters into one short brief with the main takeaways worth reading.",
+  "categories": [
+    "Research & Trends"
+  ],
+  "surfaces": [
+    "Gmail",
+    "Public Web"
+  ],
+  "tools": [
+    "Gmail MCP",
+    "public web fetch"
+  ]
+}

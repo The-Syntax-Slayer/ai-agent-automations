@@ -1,0 +1,15 @@
+{
+  "title": "Sentry Slack Triage Digest",
+  "description": "Posts a short Sentry issue digest to Slack so teams can review what matters now.",
+  "categories": [
+    "Observability & Incident Response"
+  ],
+  "surfaces": [
+    "Sentry",
+    "Slack"
+  ],
+  "tools": [
+    "Sentry MCP",
+    "Slack MCP"
+  ]
+}

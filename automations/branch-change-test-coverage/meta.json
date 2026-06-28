@@ -1,0 +1,17 @@
+{
+  "title": "Branch Change Test Coverage",
+  "description": "Adds missing tests for a recent branch or merged change, focusing on the behavior that matters most.",
+  "categories": [
+    "Code Quality & Maintenance",
+    "Developer Workflow"
+  ],
+  "surfaces": [
+    "Repository",
+    "GitHub"
+  ],
+  "tools": [
+    "git",
+    "repo validation commands",
+    "GitHub MCP"
+  ]
+}

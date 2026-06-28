@@ -1,0 +1,16 @@
+{
+  "title": "Critical Bug Fix PR",
+  "description": "Finds one critical bug in recent code changes, applies the smallest safe fix, and opens a draft PR.",
+  "categories": [
+    "Code Quality & Maintenance"
+  ],
+  "surfaces": [
+    "Repository",
+    "GitHub"
+  ],
+  "tools": [
+    "git",
+    "repo validation commands",
+    "GitHub MCP"
+  ]
+}

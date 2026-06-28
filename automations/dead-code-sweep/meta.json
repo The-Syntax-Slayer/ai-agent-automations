@@ -1,0 +1,16 @@
+{
+  "title": "Dead Code Sweep",
+  "description": "Removes safe dead code and validates the cleanup so small maintenance work actually sticks.",
+  "categories": [
+    "Code Quality & Maintenance"
+  ],
+  "surfaces": [
+    "Repository"
+  ],
+  "tools": [
+    "knip",
+    "pnpm",
+    "git",
+    "repo validation commands"
+  ]
+}
